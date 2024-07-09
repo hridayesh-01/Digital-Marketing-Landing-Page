@@ -9,7 +9,7 @@ function Footer() {
                 <p5>We’ll send you daily special offers.</p5>
             </div>
 
-            <div className="text-box">
+            <div className="text-area">
                 <span className="w3-button1">Enter your email</span>
                 <button className="w3-button2">Subscribe</button>
             </div>
@@ -20,11 +20,13 @@ function Footer() {
 
             <div className="text3">
                 <h5>Logo</h5>
-                <p7>Overview</p7>
-                <p7>Features</p7>
-                <p7>Pricing</p7>
-                <p7>Help</p7>
-                <p7>Privacy</p7>
+                <div className="p7">
+                    <p7>Overview</p7>
+                    <p7>Features</p7>
+                    <p7>Pricing</p7>
+                    <p7>Help</p7>
+                    <p7>Privacy</p7>
+                </div>
             </div>
 
             <div className="text4">

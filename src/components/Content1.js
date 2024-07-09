@@ -3,7 +3,7 @@ import './Content1.css';
 
 function Content1()  {
     return(
-        <div className="container">
+        <div className="container1">
            <div className="first"> 
                 <header className="content">
                     <h4 align="center">We are here to help you</h4>
